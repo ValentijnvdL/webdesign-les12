@@ -1,0 +1,66 @@
+body {
+  background-color: plum;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+header {
+background-color: #8333FF;
+width: 100%;
+height: 100px;
+}
+footer {
+background-color: #B0018D;
+width: 100%;
+height: 100px;
+}
+#MediumVioletRed{
+background-color: MediumVioletRed;
+}
+#DeepPink{
+background-color: DeepPink;
+}
+#PaleVioletRed{
+background-color: PaleVioletRed;
+}
+#HotPink{
+background-color: HotPink;
+}
+#LightPink{
+background-color: LightPink;
+}
+#Pink{
+background-color: Pink;
+}
+#Indigo{
+background-color: Indigo;
+}
+#DarkViolet{
+background-color: DarkViolet;
+}
+#BlueViolet{
+background-color: BlueViolet;
+}
+#DarkOrchid{
+background-color: DarkOrchid;
+}
+#Fuchsia{
+background-color: Fuchsia;
+}
+#MediumSlateBlue{
+background-color: MediumSlateBlue;
+}
+#MediumOrchid{
+background-color: MediumOrchid;
+}
+#MediumPurple{
+background-color: MediumPurple;
+}
+#Orchid{
+background-color: Orchid;
+}
+#Violet{
+background-color: Violet;
+}
